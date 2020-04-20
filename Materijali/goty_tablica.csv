@@ -1,22 +1,22 @@
-﻿Year,Game,Sold,Most Sold,Genre,Developer
-1998,GoldenEye 007,8,11,First-person shooter,Rare
-1999,The Legend of Zelda: Ocarina of Time,7.6,14.6,Action-adventure,Nintendo EAD
-2000,PC: Deus Ex,0.01,4.39,Action role-playing,Ion Storm
-2001,Console: Gran Turismo 3: A-Spec,15,15,Racing,Polyphony Digital
-2002,Console: Halo: Combat Evolved,6.5,15,First-person shooter,Bungie
-2003,Call of Duty,4.50,7.20,First-person shooter,Infinity Ward
-2004,Grand Theft Auto: Vice City,17.5,27.50,Action-adventure,Rockstar North
-2005,Half-Life 2,2.37,21.00,First-person shooter,Valve
-2006,Tom Clancy's Ghost Recon Advanced Warfighter,1.60,82.00,Tactical shooter,Ubisoft Paris
-2007,BioShock,2.83,43.00,First-person shooter,Irrational Games
-2008,Super Mario Galaxy,12.00,25.00,Platformer,Nintendo EAD
-2009,Batman: Arkham Asylum,4.25,33.00,Action-adventure,Rocksteady Studios
-2010,Mass Effect 2,3.11,26.00,Action role-playing,BioWare
-2011,Portal 2,2.10,180.00,Puzzle-platformer,Valve
-2012,Dishonored,1.70,30.00,Action-adventure,Arkane Studios
-2013,The Last of Us,6.00,120.00,Action-adventure,Naughty Dog
-2014,Destiny,5.50,31.00,Action role-playing,Bungie
-2015,Fallout 4,7.00,28.00,Action role-playing,Bethesda Game Studios
-2016,Uncharted 4: A Thief's End,4.20,25.00,Action-adventure,Naughty Dog
-2017,What Remains of Edith Finch,0.05,60.00,Adventure,Giant Sparrow
-2018,God of War,10.00,29.00,Action-adventure,SIE Santa Monica Studio
+﻿Year,Game,Sold,Most Sold,Genre,Developer,link
+1998,GoldenEye 007,8,11,First-person shooter,Rare,a
+1999,The Legend of Zelda: Ocarina of Time,7.6,14.6,Action-adventure,Nintendo EAD,
+2000,PC: Deus Ex,0.01,4.39,Action role-playing,Ion Storm,
+2001,Console: Gran Turismo 3: A-Spec,15,15,Racing,Polyphony Digital,
+2002,Console: Halo: Combat Evolved,6.5,15,First-person shooter,Bungie,
+2003,Call of Duty,4.50,7.20,First-person shooter,Infinity Ward,
+2004,Grand Theft Auto: Vice City,17.5,27.50,Action-adventure,Rockstar North,
+2005,Half-Life 2,2.37,21.00,First-person shooter,Valve,
+2006,Tom Clancy's Ghost Recon Advanced Warfighter,1.60,82.00,Tactical shooter,Ubisoft Paris,
+2007,BioShock,2.83,43.00,First-person shooter,Irrational Games,
+2008,Super Mario Galaxy,12.00,25.00,Platformer,Nintendo EAD,
+2009,Batman: Arkham Asylum,4.25,33.00,Action-adventure,Rocksteady Studios,
+2010,Mass Effect 2,3.11,26.00,Action role-playing,BioWare,
+2011,Portal 2,2.10,180.00,Puzzle-platformer,Valve,
+2012,Dishonored,1.70,30.00,Action-adventure,Arkane Studios,
+2013,The Last of Us,6.00,120.00,Action-adventure,Naughty Dog,
+2014,Destiny,5.50,31.00,Action role-playing,Bungie,
+2015,Fallout 4,7.00,28.00,Action role-playing,Bethesda Game Studios,
+2016,Uncharted 4: A Thief's End,4.20,25.00,Action-adventure,Naughty Dog,
+2017,What Remains of Edith Finch,0.05,60.00,Adventure,Giant Sparrow,
+2018,God of War,10.00,29.00,Action-adventure,SIE Santa Monica Studio,
